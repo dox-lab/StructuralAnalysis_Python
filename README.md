@@ -56,12 +56,12 @@ The project requires a few additional tools (called "libraries") to work. Here's
    cd C:\Users\YourName\Downloads\StructuralAnalysis_Python-main
 
 3. **Install the Required Libraries**:
-    - Type the following command and press Enter:
+- Type the following command and press Enter:
 
     ```bash
     pip install -r requirements.txt
     
-    - This command installs the necessary Python libraries.
+- This command installs the necessary Python libraries.
 
 ### 4. Running the Analysis
 Now that everything is set up, you can run the analysis. Here’s how:
