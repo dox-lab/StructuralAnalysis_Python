@@ -83,7 +83,7 @@ Improving documentation is one of the best ways to contribute. Here’s how you 
 ### 7. Community Guidelines
 We expect all contributors to follow our [Code of Conduct](CODE_OF_CONDUCT.md). Please be respectful and considerate in all interactions.
 
-## 8. Questions?
+### 8. Questions?
 If you have any questions about contributing, feel free to reach out by opening an issue or contacting the maintainers directly through GitHub.
 
 Thank you for contributing to Structural Analysis in Python!

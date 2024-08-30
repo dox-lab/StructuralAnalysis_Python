@@ -45,12 +45,12 @@ You need to get a copy of this project onto your computer. Here’s how:
 The project requires a few additional tools (called "libraries") to work. Here's how to install them:
 
 1. **Open the Terminal/Command Prompt**:
-   - On Windows: Press `Win + R`, type `cmd`, and hit Enter.
-   - On macOS: Press `Cmd + Space`, type `Terminal`, and hit Enter.
-   - On Linux: Open the terminal from your applications menu.
+- On Windows: Press `Win + R`, type `cmd`, and hit Enter.
+- On macOS: Press `Cmd + Space`, type `Terminal`, and hit Enter.
+- On Linux: Open the terminal from your applications menu.
 
 2. **Navigate to the Project Folder**:
-   - In the terminal, type `cd ` followed by the path to the extracted project folder. For example:
+- In the terminal, type `cd ` followed by the path to the extracted project folder. For example:
    
    ```bash
    cd C:\Users\YourName\Downloads\StructuralAnalysis_Python-main
